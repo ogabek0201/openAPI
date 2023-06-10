@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "img": "uploads\\1686356619581.jpg",
+      "name": "Ogabek",
+      "surname": "Barotov",
+      "email": "ogabek@gmail.com",
+      "status": true,
+      "city": "Dushanbe",
+      "phone": "931224424",
+      "id": 1
+    },
+    {
+      "img": "uploads\\1686357883394.png",
+      "name": "oagugdi",
+      "surname": "iufghuu",
+      "email": "gi@gmail.com",
+      "status": true,
+      "city": "Dushanbe",
+      "phone": "98764132",
+      "id": 2
+    }
+  ]
+}
